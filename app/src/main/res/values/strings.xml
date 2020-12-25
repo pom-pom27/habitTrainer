@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Habbit Trainer</string>
+    <string name="drink_water">Drink water</string>
+    <string name="good_for_your_health_and_stay_hydrated">Good for your health and stay hydrated</string>
+    <string name="habbit_icon">habbit icon</string>
+    <string name="begin_new_habit">Begin new habit…</string>
+    <string name="eat_an_apple">Eat an apple</string>
+    <string name="an_apple_a_day_keeps_the_doctor_away">An apple a day keeps the doctor away</string>
+    <string name="choose_image">Choose image</string>
+    <string name="selected_image">selected image</string>
+    <string name="save">Save</string>
+    <string name="title_desc_required">Add a motivational title and description</string>
+    <string name="image_required">Add a nice pictore to your habit</string>
+</resources>
